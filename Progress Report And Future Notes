@@ -1,0 +1,15 @@
+Week 1 : March 23, 2025
+
+Progress :
+Unity Hub
+- Editor Installation
+Docker
+- Installation
+
+Future Notes :
+Unity Hub
+- Usage Guide : https://youtu.be/JEP5lgpVVXw
+- Build Support For Other Devices
+  - Add Build Support : If you plan to build for Android, iOS, or other platforms, look for an “Add modules” or “Add components” option during installation.This allows you 
+    to select Android Build Support, WebGL, etc. If you don’t see it right away, you can add these modules later by clicking the Settings (gear icon) next to the installed 
+    Unity version in the Installs tab.
