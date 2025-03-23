@@ -1,5 +1,13 @@
 Week 1 : March 23, 2025
 
+Roadmap : 
+// Game idea and content
+// turnTimer - The Turn Timer script counts down the duration for each turn and automatically triggers a turn change when the time expires.
+// gameFlowManager - GameFlowManager Responsibilities:
+    Track Turns: Maintain a list of players and an index to know whose turn it is.
+    Turn Conditions: Decide when a turn ends (time expiry or player action).
+    Player Actions: Ensure only the active player’s input is processed.
+
 Progress :
 Unity Hub
 - Editor Installation
