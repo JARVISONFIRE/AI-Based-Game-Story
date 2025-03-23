@@ -1,0 +1,16 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+*.apk
+*.unitypackage
+*.sln
+.vscode/
+
+# Docker
+*.env
+docker-compose.override.yml
